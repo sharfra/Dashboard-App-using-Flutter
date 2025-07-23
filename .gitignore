@@ -1,0 +1,14 @@
+## Flutter-specific ignores
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+build/
+
+## IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+## Other
+*.lock
