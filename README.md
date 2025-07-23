@@ -21,9 +21,9 @@ This project was created to fulfill the requirements outlined in the provided as
 
 ## Technical Details
 - #### State Management : 
-  Uses  `StatefulWidget`and basic state management (`StatefulWidget`) for simplicity.
+   Uses  `StatefulWidget`and basic state management (`setState`) for simplicity.
 - #### Navigation : 
-  Implements named routes (Navigator.pushNamed) for clear and decoupled screen transitions.
+   Implements named routes (`Navigator.pushNamed`) for clear and decoupled screen transitions.
 - #### UI : 
   Built with standard Material Design widgets, including `ListView`, `Card`, `TextField`, and `ElevatedButton`.
 - #### No External Dependencies :
@@ -31,7 +31,7 @@ This project was created to fulfill the requirements outlined in the provided as
 
 
 ## Deployment
-To deploy this project follow below steps:
+To deploy this project, follow steps below:
 #### 1. Clone the repository :
 ```bash
   https://github.com/sharfra/Dashboard-App-using-Flutter.git
